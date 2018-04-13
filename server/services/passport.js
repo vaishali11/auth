@@ -1,5 +1,4 @@
 //help us authenticate User
-
 const passport = require('passport')
 const User = require('../models/user')
 const config = require('../config')
